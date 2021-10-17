@@ -1,5 +1,4 @@
-# untitled
-
+# NameGen
 A new Flutter project.
 
 ## Getting Started
